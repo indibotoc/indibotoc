@@ -47,6 +47,12 @@ image processing
 
 ## 🎓 Teaching Experience
 
+**Teacher - “Grigore Moisil” High School, Timișoara**
+*Nov 2023 – present*  
+- Teaching *informatics* and *digital competencies*
+- Preparing students for the national Baccalaureate exam in Informatics
+- Designing guided practice materials and classroom activities to support exam performance
+  
 **Tutor — Politehnica University of Timișoara (TPCMT Program)**  
 *Sep 2023 – present*  
 - Teaching *Programming, Data Structures, Digital Logic, Operating Systems, Algebra,* and *Electronics Fundamentals*  
